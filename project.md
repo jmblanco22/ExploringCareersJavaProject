@@ -13,15 +13,15 @@ my exploring careers project video
 *  32k, 58% a-rate, 71% g-rate,  computer science/d1 soccer/engineering
 # Interviews
 - Jose Blanco - Wells Fargo vice president in IT
-Jose is a well known IT in the minnepois area he has been working for 25 years in the computer science area he tells me about the enviroment at his job and the different jobs there are at wells fargo.
+Jose is a well known IT in the Mineapolis area he has been working for 25 years in the computer science area he tells me about the enviroment at his job and the different jobs there are at Wells Fargo.
 - Tony Braasch - UI Developer / Associate Consultant at Concord
 Tony is a coder in Concord they make more upfront code and help different companies in making websites or apps.
 - Ruslan Salakhutdinov -UPMC Professor of Computer Science
-He is a college professor at UPMC teaches computer sciences and told me about what he teahces kids and the enviroment he gives
+He is a college professor at UPMC teaches computer sciences and told me about what he teaches kids and the enviroment he gives
 - Vaishali Kushwaha - Software Engineer at Microsoft | MS in Computer Science (University of Minnesota)
 She is a software engineer at Microsoft and told me a lot about the position she works in and what he role is
 - Zhihan Chang - Summer Analyst at China Merchants Bank New York Branch
-He is a senior at UW-Madison and he is looking into internships for the summer,he told me a lot
+He is a senior at UW-Madison and he is looking into internships for the summer, he told me a lot
 about how college data analyst classes work.
 # Internships
 ## HCS
